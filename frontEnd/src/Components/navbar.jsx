@@ -1,7 +1,7 @@
 "use client";
 
 import { Avatar, Dropdown, Navbar } from "flowbite-react";
-import Logo from "../assets/Screenshot_2024-08-28_at_11.34.38_AM-removebg-preview.png";
+import Logo from "/assets/Screenshot_2024-08-28_at_11.34.38_AM-removebg-preview.png";
 
 export function NavbarComponent() {
   return (

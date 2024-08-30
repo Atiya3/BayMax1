@@ -4,8 +4,8 @@ import React from 'react';
 
 
 import { Carousel } from "flowbite-react";
-import AchievementImage from '../assets/Screenshot_2024-08-28_at_11.34.38_AM-removebg-preview.png'; // Replace with the correct path
-import ExtraImage from '../assets/banner.jpg'; // Replace with the correct path
+import AchievementImage from '/assets/Screenshot_2024-08-28_at_11.34.38_AM-removebg-preview.png'; // Replace with the correct path
+import ExtraImage from '/assets/banner.jpg'; // Replace with the correct path
 
 export default function Echievement_Extras() {
    

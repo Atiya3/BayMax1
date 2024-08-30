@@ -1,5 +1,5 @@
 import React from 'react';
-import joyStick from "../assets/joy_stick 1.svg"
+import joyStick from "/assets/joy_stick 1.svg"
 export default function Home() {
   return (
     <section className="bg-[#39289F] h-screen flex items-center justify-center">
